@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AWComponents_Example' do
+  pod 'AWComponents', :path => '../'
+
+  target 'AWComponents_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
