@@ -6,6 +6,8 @@
 
 This cocoapod contains a collection of useful components for iOS development, including helpers for `UIColor`, `UIView` anchors, and `ImageView` with caching. The code is heavily based off of the [LBTAComponents](https://github.com/bhlvoong/LBTAComponents) cocoapod developed by Brian Voong.
 
+Read more about the development of this pod on [Medium](https://medium.com/@akhilwaghmare/creating-a-reusable-components-library-in-cocoapods-dd7c80cb49f9).
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
