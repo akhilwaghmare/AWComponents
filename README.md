@@ -1,9 +1,10 @@
 # AWComponents
 
-[![CI Status](https://img.shields.io/travis/Akhil Waghmare/AWComponents.svg?style=flat)](https://travis-ci.org/Akhil Waghmare/AWComponents)
 [![Version](https://img.shields.io/cocoapods/v/AWComponents.svg?style=flat)](https://cocoapods.org/pods/AWComponents)
 [![License](https://img.shields.io/cocoapods/l/AWComponents.svg?style=flat)](https://cocoapods.org/pods/AWComponents)
 [![Platform](https://img.shields.io/cocoapods/p/AWComponents.svg?style=flat)](https://cocoapods.org/pods/AWComponents)
+
+This cocoapod contains a collection of useful components for iOS development, including helpers for `UIColor`, `UIView` anchors, and `ImageView` with caching. The code is heavily based off of the [LBTAComponents](https://github.com/bhlvoong/LBTAComponents) cocoapod developed by Brian Voong.
 
 ## Example
 
